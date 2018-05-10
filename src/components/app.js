@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import SearchBar from "../containers/SearchBar";
-import ForecastList from "./ForecastList";
+import ForecastList from "../containers/ForecastList";
+
 
 export default class App extends Component {
   render() {
